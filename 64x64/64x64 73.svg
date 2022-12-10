@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64" version="1.1">
+  <defs>
+    <filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask0">
+      <g filter="url(#alpha)">
+        <rect x="0" y="0" width="64" height="64" style="fill:rgb(0%,0%,0%);fill-opacity:0.1;stroke:none;"/>
+      </g>
+    </mask>
+    <clipPath id="clip1">
+      <rect x="0" y="0" width="64" height="64"/>
+    </clipPath>
+    <g id="surface5" clip-path="url(#clip1)">
+      <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 62 46 L 62 62 L 40 62 L 40 46 Z M 64 44 L 38 44 L 38 64 L 64 64 Z M 64 44 "/>
+    </g>
+  </defs>
+  <g id="surface1">
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,95.294118%,95.294118%);fill-opacity:1;" d="M 58 0 L 58 30.28125 C 57.378906 29.820312 56.71875 29.421875 56 29.101562 C 54.5 28.398438 52.800781 28 51 28 C 44.941406 28 40 32.480469 40 38 L 40 42 L 36 42 L 36 48 L 0 48 L 0 0 Z M 58 0 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 0 0 L 0 48 L 36 48 L 36 46 L 2 46 L 2 2 L 56 2 L 56 29.101562 C 56.71875 29.421875 57.378906 29.820312 58 30.28125 L 58 0 Z M 0 0 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,66.666669%,0%);fill-opacity:1;" d="M 64 44 L 38 44 L 38 64 L 64 64 Z M 64 44 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 52 50 L 50 50 L 50 58 L 52 58 Z M 52 50 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.019608%,59.215689%,0%);fill-opacity:1;" d="M 51 30 C 46.019531 30 42 33.578125 42 38 L 42 44 L 46 44 L 46 38 C 46 35.800781 48.238281 34 51 34 C 53.761719 34 56 35.800781 56 38 L 56 44 L 60 44 L 60 38 C 60 33.578125 55.980469 30 51 30 Z M 51 30 "/>
+    <use xlink:href="#surface5" mask="url(#mask0)"/>
+  </g>
+</svg>

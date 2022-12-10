@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64" version="1.1">
+  <defs>
+    <filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask0">
+      <g filter="url(#alpha)">
+        <rect x="0" y="0" width="64" height="64" style="fill:rgb(0%,0%,0%);fill-opacity:0.3;stroke:none;"/>
+      </g>
+    </mask>
+    <mask id="mask1">
+      <g filter="url(#alpha)">
+        <rect x="0" y="0" width="64" height="64" style="fill:rgb(0%,0%,0%);fill-opacity:0.1;stroke:none;"/>
+      </g>
+    </mask>
+    <clipPath id="clip1">
+      <rect x="0" y="0" width="64" height="64"/>
+    </clipPath>
+    <clipPath id="clip2">
+      <rect x="0" y="0" width="64" height="64"/>
+    </clipPath>
+    <g id="surface5" clip-path="url(#clip1)">
+      <path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,49.411765%,20.784314%);fill-opacity:1;" d="M 16 4 L 16 42 L 46 23 Z M 16 4 "/>
+    </g>
+    <g id="surface8" clip-path="url(#clip2)">
+      <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 50 34 L 50 46 L 62 46 L 62 50 L 50 50 L 50 62 L 46 62 L 46 50 L 34 50 L 34 46 L 46 46 L 46 34 Z M 52 32 L 44 32 L 44 44 L 32 44 L 32 52 L 44 52 L 44 64 L 52 64 L 52 52 L 64 52 L 64 44 L 52 44 Z M 52 32 "/>
+    </g>
+  </defs>
+  <g id="surface1">
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.392157%,40.784314%,40.784314%);fill-opacity:1;" d="M 32 30.878906 L 30 32.121094 L 30 42 L 32 42 Z M 32 30.878906 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.392157%,40.784314%,40.784314%);fill-opacity:1;" d="M 56 22 L 44 22 L 44 24 L 56 24 Z M 56 22 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.392157%,40.784314%,40.784314%);fill-opacity:1;" d="M 32 0 L 32 15.121094 L 30 13.878906 L 30 0 Z M 32 0 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(90.196079%,49.411765%,20.784314%);fill-opacity:1;" d="M 18 7.640625 L 42.261719 23 L 18 38.359375 Z M 16 4 L 16 42 L 46 23 Z M 16 4 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.392157%,40.784314%,40.784314%);fill-opacity:1;" d="M 16 30 L 0 30 L 0 32 L 16 32 Z M 16 30 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.392157%,40.784314%,40.784314%);fill-opacity:1;" d="M 16 14 L 0 14 L 0 16 L 16 16 Z M 16 14 "/>
+    <path style=" stroke:none;fill-rule:evenodd;fill:rgb(14.117648%,69.803923%,32.156864%);fill-opacity:1;" d="M 64 44 L 52 44 L 52 32 L 44 32 L 44 44 L 32 44 L 32 52 L 44 52 L 44 64 L 52 64 L 52 52 L 64 52 Z M 64 44 "/>
+    <use xlink:href="#surface5" mask="url(#mask0)"/>
+    <use xlink:href="#surface8" mask="url(#mask1)"/>
+  </g>
+</svg>

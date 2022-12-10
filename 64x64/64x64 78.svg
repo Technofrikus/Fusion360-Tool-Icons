@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64" version="1.1">
+  <g id="surface1">
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(35.294119%,78.039217%,49.411765%);fill-opacity:1;" d="M 12 52 L 12 54 L 8.738281 54 L 6.71875 60 L 0 60 L 0 58 L 5.28125 58 L 7.300781 52 Z M 12 52 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(35.294119%,78.039217%,49.411765%);fill-opacity:1;" d="M 62 58 L 62 60 L 55.300781 60 L 53.28125 54 L 50 54 L 50 52 L 54.71875 52 L 56.738281 58 Z M 62 58 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.2;" d="M 12 52 L 12 54 L 8.738281 54 L 6.71875 60 L 0 60 L 0 58 L 5.28125 58 L 7.300781 52 Z M 12 52 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.2;" d="M 62 58 L 62 60 L 55.300781 60 L 53.28125 54 L 50 54 L 50 52 L 54.71875 52 L 56.738281 58 Z M 62 58 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(35.294119%,78.039217%,49.411765%);fill-opacity:1;" d="M 34 48 L 28 48 L 28 50 L 34 50 Z M 34 48 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.2;" d="M 34 48 L 28 48 L 28 50 L 34 50 Z M 34 48 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(35.294119%,78.039217%,49.411765%);fill-opacity:1;" d="M 50 50 L 12 50 L 12 58 L 50 58 Z M 50 50 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:0.2;" d="M 48 52 L 48 56 L 14 56 L 14 52 Z M 50 50 L 12 50 L 12 58 L 50 58 Z M 50 50 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,95.294118%,95.294118%);fill-opacity:1;" d="M 38 18 L 24 18 L 24 32 L 38 32 Z M 38 18 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 31 48 L 34 32 L 28 32 Z M 31 48 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,95.294118%,95.294118%);fill-opacity:1;" d="M 42 4 L 20 4 L 20 20 L 42 20 Z M 42 4 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 36 20 L 36 30 L 26 30 L 26 20 Z M 38 18 L 24 18 L 24 32 L 38 32 Z M 38 18 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 40 6 L 40 18 L 22 18 L 22 6 Z M 42 4 L 20 4 L 20 20 L 42 20 Z M 42 4 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(85.09804%,85.09804%,85.09804%);fill-opacity:1;" d="M 40 6 L 34 6 L 34 18 L 40 18 Z M 40 6 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(85.09804%,85.09804%,85.09804%);fill-opacity:1;" d="M 36 20 L 32 20 L 32 30 L 36 30 Z M 36 20 "/>
+  </g>
+</svg>

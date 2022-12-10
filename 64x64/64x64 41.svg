@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64" version="1.1">
+  <defs>
+    <filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask0">
+      <g filter="url(#alpha)">
+        <rect x="0" y="0" width="64" height="64" style="fill:rgb(0%,0%,0%);fill-opacity:0.1;stroke:none;"/>
+      </g>
+    </mask>
+    <clipPath id="clip1">
+      <rect x="0" y="0" width="64" height="64"/>
+    </clipPath>
+    <g id="surface5" clip-path="url(#clip1)">
+      <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 46 43.601562 L 60.199219 52 L 46 60.398438 L 46 54 L 30 54 L 30 50 L 46 50 Z M 44 40 L 44 48 L 28 48 L 28 56 L 44 56 L 44 64 L 64 52 Z M 44 40 "/>
+    </g>
+  </defs>
+  <g id="surface1">
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(73.333335%,73.333335%,73.333335%);fill-opacity:1;" d="M 26 58 L 42 58 L 42 60 L 8 60 C 3.601562 60 0 56.398438 0 52 L 0 8 C 0 3.601562 3.601562 0 8 0 L 8 44 L 42 44 L 42 46 L 26 46 Z M 26 58 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(95.294118%,95.294118%,95.294118%);fill-opacity:1;" d="M 26 46 L 26 56 L 11 56 C 8.199219 56 6 53.800781 6 51 C 6 48.199219 8.199219 46 11 46 Z M 26 46 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 52 0 L 52 42.398438 L 50 41.199219 L 50 2 L 8 2 C 4.601562 2 2 4.601562 2 8 L 2 52 C 2 55.199219 4.601562 58 8 58 L 42 58 L 42 60 L 8 60 C 3.601562 60 0 56.398438 0 52 L 0 8 C 0 3.601562 3.601562 0 8 0 Z M 52 0 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(85.09804%,85.09804%,85.09804%);fill-opacity:1;" d="M 50 2 L 50 41.199219 L 42 36.398438 L 42 44 L 8 44 L 8 2 Z M 50 2 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(9.019608%,56.078434%,90.196079%);fill-opacity:1;" d="M 64 52 L 44 40 L 44 48 L 28 48 L 28 56 L 44 56 L 44 64 Z M 64 52 "/>
+    <use xlink:href="#surface5" mask="url(#mask0)"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64" version="1.1">
+  <g id="surface1">
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(45.09804%,77.254903%,100%);fill-opacity:1;" d="M 56 2 L 62 2 L 62 8 L 56 8 Z M 56 2 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(45.09804%,77.254903%,100%);fill-opacity:1;" d="M 18 18 L 24 18 L 24 24 L 18 24 Z M 18 18 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(45.09804%,77.254903%,100%);fill-opacity:1;" d="M 2 56 L 8 56 L 8 62 L 2 62 Z M 2 56 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(85.09804%,85.09804%,85.09804%);fill-opacity:1;" d="M 4.320312 54 L 6.320312 54 C 7.417969 44.238281 11.183594 34.964844 17.199219 27.199219 L 15.761719 25.761719 C 9.386719 33.921875 5.425781 43.703125 4.320312 54 Z M 4.320312 54 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(85.09804%,85.09804%,85.09804%);fill-opacity:1;" d="M 25.761719 15.761719 L 27.199219 17.199219 C 34.972656 11.195312 44.242188 7.441406 54 6.339844 L 54 4.339844 C 43.707031 5.449219 33.929688 9.402344 25.761719 15.761719 Z M 25.761719 15.761719 "/>
+  </g>
+</svg>

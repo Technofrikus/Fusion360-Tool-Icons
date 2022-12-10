@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64" version="1.1">
+  <defs>
+    <filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+      <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="mask0">
+      <g filter="url(#alpha)">
+        <rect x="0" y="0" width="64" height="64" style="fill:rgb(0%,0%,0%);fill-opacity:0.2;stroke:none;"/>
+      </g>
+    </mask>
+    <clipPath id="clip1">
+      <rect x="0" y="0" width="64" height="64"/>
+    </clipPath>
+    <g id="surface5" clip-path="url(#clip1)">
+      <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 31 24 C 27.140625 24 24 27.140625 24 31 C 24 34.859375 27.140625 38 31 38 C 34.859375 38 38 34.859375 38 31 C 38 27.140625 34.859375 24 31 24 Z M 31 36 C 28.238281 36 26 33.761719 26 31 C 26 28.238281 28.238281 26 31 26 C 33.761719 26 36 28.238281 36 31 C 36 33.761719 33.761719 36 31 36 Z M 31 36 "/>
+    </g>
+  </defs>
+  <g id="surface1">
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 32 2 L 30 2 L 30 60 L 32 60 Z M 32 2 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(40.000001%,40.000001%,40.000001%);fill-opacity:1;" d="M 60 32 L 60 30 L 2 30 L 2 32 Z M 60 32 "/>
+    <path style=" stroke:none;fill-rule:nonzero;fill:rgb(38.431373%,81.176472%,85.09804%);fill-opacity:1;" d="M 31 38 C 34.867188 38 38 34.867188 38 31 C 38 27.132812 34.867188 24 31 24 C 27.132812 24 24 27.132812 24 31 C 24 34.867188 27.132812 38 31 38 Z M 31 38 "/>
+    <use xlink:href="#surface5" mask="url(#mask0)"/>
+  </g>
+</svg>
